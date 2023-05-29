@@ -37,11 +37,38 @@
   ## 무신사
   https://medium.com/musinsa-tech
   
-  ## 구글 (영어)
+  ## 강남언니
+  https://blog.gangnamunni.com/blog
+  
+  ## 요기요
+  https://techblog.yogiyo.co.kr/
+  
+  # 해외 기술 블로그 (영어)
+  
+  ## 구글
   https://developers.googleblog.com/
   
-  ## 넷플릭스 (영어)
+  ## 넷플릭스
   https://netflixtechblog.com/
+  
+  ## 링크드인
+  https://engineering.linkedin.com/blog
+  
+  ## 에어비앤비
+  https://medium.com/airbnb-engineering
+  
+  ## 핀터레스트
+  https://medium.com/@Pinterest_Engineering
+  
+  ## 페이팔
+  https://medium.com/paypal-tech
+  
+  ## 이베이
+  https://tech.ebayinc.com/
+  
+  ## 트위터
+  https://blog.twitter.com/engineering/en_us
+  
   
   
   
