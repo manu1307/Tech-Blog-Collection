@@ -1,8 +1,11 @@
 # Tech-Blog-Collection
-(2023.05.30 업데이트)
+(2023.6.9 Update)
 
   ## Naver D2
   https://d2.naver.com/helloworld
+  
+  ## Naver FE
+  https://github.com/naver/fe-news
   
   ## 카카오엔터 FE
   https://fe-developers.kakaoent.com/
